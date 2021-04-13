@@ -13,4 +13,5 @@ for each command run.
 
 This is a minimal reproduction of the issue.
 
-To run, clone this repo, then run `yarn test` from the root of the project.
+To run, clone this repo, then run `yarn test` from the root of the project. You will see that `registerPackageExtensions`
+fires twice before the test script is run.
