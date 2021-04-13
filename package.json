@@ -1,0 +1,10 @@
+{
+  "name": "yarn-hook-poc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "node test.js"
+  }
+}
